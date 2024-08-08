@@ -69,4 +69,4 @@ This project provides a Streamlit web application to predict credit risk based o
 
 ### Contact
 
-For any questions or issues, please contact [support@skillforge.in](vkc335524@gmail.com).
+For any questions or issues, please contact [vkc335524@gmail.com](vkc335524@gmail.com).

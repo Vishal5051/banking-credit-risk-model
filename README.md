@@ -1,6 +1,6 @@
 
 
-### Credit Risk Prediction
+## Credit Risk Prediction
 
 ### Overview
 This project provides a Streamlit web application to predict credit risk based on user input. The model used for prediction is a pre-trained Support Vector Machine (SVM) with a linear kernel.
